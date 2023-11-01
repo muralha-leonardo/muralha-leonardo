@@ -3,7 +3,6 @@
 <div>
   
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=muralha-leonardo&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiGF&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 <br>
 
@@ -21,7 +20,7 @@
    </div>
     
   
-  <h1 align="center">Redes Sociais</h1>
+  <h1 align="center">Contato</h1>
     <a href = "mailto: work.luigi.fonseca@gmail.com">
       <img width="30" src="gmail.svg">
     </a>
